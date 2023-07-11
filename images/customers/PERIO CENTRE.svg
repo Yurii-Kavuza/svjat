@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="560mm" height="400mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 56000 40000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#FEFEFE}
+    .fil0 {fill:#FF3A00}
+    .fil3 {fill:#FF3A00;fill-rule:nonzero}
+    .fil4 {fill:#FF3B01;fill-rule:nonzero}
+    .fil5 {fill:#FF3C02;fill-rule:nonzero}
+    .fil6 {fill:#FF3C03;fill-rule:nonzero}
+    .fil7 {fill:#FF3D04;fill-rule:nonzero}
+    .fil8 {fill:#FF3E05;fill-rule:nonzero}
+    .fil9 {fill:#FF3F06;fill-rule:nonzero}
+    .fil10 {fill:#FF3F07;fill-rule:nonzero}
+    .fil11 {fill:#FF4008;fill-rule:nonzero}
+    .fil12 {fill:#FF4109;fill-rule:nonzero}
+    .fil13 {fill:#FF420A;fill-rule:nonzero}
+    .fil14 {fill:#FF420B;fill-rule:nonzero}
+    .fil15 {fill:#FF430C;fill-rule:nonzero}
+    .fil16 {fill:#FF440D;fill-rule:nonzero}
+    .fil17 {fill:#FF450E;fill-rule:nonzero}
+    .fil18 {fill:#FF460F;fill-rule:nonzero}
+    .fil19 {fill:#FF4610;fill-rule:nonzero}
+    .fil20 {fill:#FF4711;fill-rule:nonzero}
+    .fil21 {fill:#FF4812;fill-rule:nonzero}
+    .fil22 {fill:#FF4913;fill-rule:nonzero}
+    .fil23 {fill:#FF4914;fill-rule:nonzero}
+    .fil24 {fill:#FF4A15;fill-rule:nonzero}
+    .fil25 {fill:#FF4B16;fill-rule:nonzero}
+    .fil26 {fill:#FF4C17;fill-rule:nonzero}
+    .fil27 {fill:#FF4D18;fill-rule:nonzero}
+    .fil28 {fill:#FF4D19;fill-rule:nonzero}
+    .fil29 {fill:#FF4E1A;fill-rule:nonzero}
+    .fil30 {fill:#FF4F1B;fill-rule:nonzero}
+    .fil31 {fill:#FF501C;fill-rule:nonzero}
+    .fil32 {fill:#FF501D;fill-rule:nonzero}
+    .fil33 {fill:#FF511E;fill-rule:nonzero}
+    .fil34 {fill:#FF521F;fill-rule:nonzero}
+    .fil35 {fill:#FF5320;fill-rule:nonzero}
+    .fil36 {fill:#FF5321;fill-rule:nonzero}
+    .fil37 {fill:#FF5422;fill-rule:nonzero}
+    .fil38 {fill:#FF5523;fill-rule:nonzero}
+    .fil39 {fill:#FF5624;fill-rule:nonzero}
+    .fil40 {fill:#FF5725;fill-rule:nonzero}
+    .fil41 {fill:#FF5726;fill-rule:nonzero}
+    .fil42 {fill:#FF5827;fill-rule:nonzero}
+    .fil43 {fill:#FF5928;fill-rule:nonzero}
+    .fil44 {fill:#FF5A29;fill-rule:nonzero}
+    .fil45 {fill:#FF5A2A;fill-rule:nonzero}
+    .fil46 {fill:#FF5B2B;fill-rule:nonzero}
+    .fil47 {fill:#FF5C2C;fill-rule:nonzero}
+    .fil48 {fill:#FF5D2D;fill-rule:nonzero}
+    .fil49 {fill:#FF5E2E;fill-rule:nonzero}
+    .fil50 {fill:#FF5E2F;fill-rule:nonzero}
+    .fil51 {fill:#FF5F30;fill-rule:nonzero}
+    .fil52 {fill:#FF6031;fill-rule:nonzero}
+    .fil53 {fill:#FF6132;fill-rule:nonzero}
+    .fil54 {fill:#FF6133;fill-rule:nonzero}
+    .fil55 {fill:#FF6234;fill-rule:nonzero}
+    .fil56 {fill:#FF6335;fill-rule:nonzero}
+    .fil57 {fill:#FF6436;fill-rule:nonzero}
+    .fil58 {fill:#FF6437;fill-rule:nonzero}
+    .fil59 {fill:#FF6538;fill-rule:nonzero}
+    .fil60 {fill:#FF6639;fill-rule:nonzero}
+    .fil61 {fill:#FF673A;fill-rule:nonzero}
+    .fil62 {fill:#FF683B;fill-rule:nonzero}
+    .fil63 {fill:#FF683C;fill-rule:nonzero}
+    .fil64 {fill:#FF693D;fill-rule:nonzero}
+    .fil65 {fill:#FF6A3E;fill-rule:nonzero}
+    .fil66 {fill:#FF6B3F;fill-rule:nonzero}
+    .fil67 {fill:#FF6B40;fill-rule:nonzero}
+    .fil68 {fill:#FF6C41;fill-rule:nonzero}
+    .fil69 {fill:#FF6D42;fill-rule:nonzero}
+    .fil70 {fill:#FF6E43;fill-rule:nonzero}
+    .fil71 {fill:#FF6F44;fill-rule:nonzero}
+    .fil72 {fill:#FF6F45;fill-rule:nonzero}
+    .fil73 {fill:#FF7046;fill-rule:nonzero}
+    .fil74 {fill:#FF7147;fill-rule:nonzero}
+    .fil75 {fill:#FF7248;fill-rule:nonzero}
+    .fil76 {fill:#FF7249;fill-rule:nonzero}
+    .fil77 {fill:#FF734A;fill-rule:nonzero}
+    .fil78 {fill:#FF744B;fill-rule:nonzero}
+    .fil79 {fill:#FF754C;fill-rule:nonzero}
+    .fil80 {fill:#FF754D;fill-rule:nonzero}
+    .fil81 {fill:#FF764E;fill-rule:nonzero}
+    .fil82 {fill:#FF774F;fill-rule:nonzero}
+    .fil83 {fill:#FF7850;fill-rule:nonzero}
+    .fil84 {fill:#FF7951;fill-rule:nonzero}
+    .fil85 {fill:#FF7952;fill-rule:nonzero}
+    .fil86 {fill:#FF7A53;fill-rule:nonzero}
+    .fil87 {fill:#FF7B54;fill-rule:nonzero}
+    .fil88 {fill:#FF7C55;fill-rule:nonzero}
+    .fil89 {fill:#FF7C56;fill-rule:nonzero}
+    .fil90 {fill:#FF7D57;fill-rule:nonzero}
+    .fil91 {fill:#FF7E58;fill-rule:nonzero}
+    .fil92 {fill:#FF7F59;fill-rule:nonzero}
+    .fil93 {fill:#FF805A;fill-rule:nonzero}
+    .fil94 {fill:#FF805B;fill-rule:nonzero}
+    .fil95 {fill:#FF815C;fill-rule:nonzero}
+    .fil96 {fill:#FF825D;fill-rule:nonzero}
+    .fil97 {fill:#FF835E;fill-rule:nonzero}
+    .fil98 {fill:#FF835F;fill-rule:nonzero}
+    .fil99 {fill:#FF8460;fill-rule:nonzero}
+    .fil100 {fill:#FF8561;fill-rule:nonzero}
+    .fil101 {fill:#FF8662;fill-rule:nonzero}
+    .fil102 {fill:#FF8663;fill-rule:nonzero}
+    .fil103 {fill:#FF8764;fill-rule:nonzero}
+    .fil104 {fill:#FF8865;fill-rule:nonzero}
+    .fil105 {fill:#FF8966;fill-rule:nonzero}
+    .fil106 {fill:#FF8A67;fill-rule:nonzero}
+    .fil107 {fill:#FF8A68;fill-rule:nonzero}
+    .fil108 {fill:#FF8B69;fill-rule:nonzero}
+    .fil109 {fill:#FF8C6A;fill-rule:nonzero}
+    .fil110 {fill:#FF8D6B;fill-rule:nonzero}
+    .fil111 {fill:#FF8D6C;fill-rule:nonzero}
+    .fil112 {fill:#FF8E6D;fill-rule:nonzero}
+    .fil113 {fill:#FF8F6E;fill-rule:nonzero}
+    .fil114 {fill:#FF906F;fill-rule:nonzero}
+    .fil115 {fill:#FF9170;fill-rule:nonzero}
+    .fil116 {fill:#FF9171;fill-rule:nonzero}
+    .fil117 {fill:#FF9272;fill-rule:nonzero}
+    .fil118 {fill:#FF9373;fill-rule:nonzero}
+    .fil119 {fill:#FF9474;fill-rule:nonzero}
+    .fil120 {fill:#FF9475;fill-rule:nonzero}
+    .fil121 {fill:#FF9576;fill-rule:nonzero}
+    .fil122 {fill:#FF9677;fill-rule:nonzero}
+    .fil123 {fill:#FF9778;fill-rule:nonzero}
+    .fil124 {fill:#FF9779;fill-rule:nonzero}
+    .fil125 {fill:#FF987A;fill-rule:nonzero}
+    .fil126 {fill:#FF997B;fill-rule:nonzero}
+    .fil127 {fill:#FF9A7C;fill-rule:nonzero}
+    .fil128 {fill:#FF9B7D;fill-rule:nonzero}
+    .fil129 {fill:#FF9B7E;fill-rule:nonzero}
+    .fil130 {fill:#FF9C7F;fill-rule:nonzero}
+    .fil131 {fill:#FF9D80;fill-rule:nonzero}
+    .fil132 {fill:#FF9E81;fill-rule:nonzero}
+    .fil133 {fill:#FF9E82;fill-rule:nonzero}
+    .fil134 {fill:#FF9F83;fill-rule:nonzero}
+    .fil135 {fill:#FFA084;fill-rule:nonzero}
+    .fil136 {fill:#FFA185;fill-rule:nonzero}
+    .fil137 {fill:#FFA286;fill-rule:nonzero}
+    .fil138 {fill:#FFA287;fill-rule:nonzero}
+    .fil139 {fill:#FFA388;fill-rule:nonzero}
+    .fil140 {fill:#FFA489;fill-rule:nonzero}
+    .fil141 {fill:#FFA58A;fill-rule:nonzero}
+    .fil142 {fill:#FFA58B;fill-rule:nonzero}
+    .fil143 {fill:#FFA68C;fill-rule:nonzero}
+    .fil144 {fill:#FFA78D;fill-rule:nonzero}
+    .fil145 {fill:#FFA88E;fill-rule:nonzero}
+    .fil146 {fill:#FFA88F;fill-rule:nonzero}
+    .fil147 {fill:#FFA990;fill-rule:nonzero}
+    .fil148 {fill:#FFAA91;fill-rule:nonzero}
+    .fil149 {fill:#FFAB92;fill-rule:nonzero}
+    .fil150 {fill:#FFAC93;fill-rule:nonzero}
+    .fil151 {fill:#FFAC94;fill-rule:nonzero}
+    .fil152 {fill:#FFAD95;fill-rule:nonzero}
+    .fil153 {fill:#FFAE96;fill-rule:nonzero}
+    .fil154 {fill:#FFAF97;fill-rule:nonzero}
+    .fil155 {fill:#FFAF98;fill-rule:nonzero}
+    .fil156 {fill:#FFB099;fill-rule:nonzero}
+    .fil157 {fill:#FFB19A;fill-rule:nonzero}
+    .fil158 {fill:#FFB29B;fill-rule:nonzero}
+    .fil159 {fill:#FFB39C;fill-rule:nonzero}
+    .fil160 {fill:#FFB39D;fill-rule:nonzero}
+    .fil161 {fill:#FFB49E;fill-rule:nonzero}
+    .fil162 {fill:#FFB59F;fill-rule:nonzero}
+    .fil163 {fill:#FFB6A0;fill-rule:nonzero}
+    .fil164 {fill:#FFB6A1;fill-rule:nonzero}
+    .fil165 {fill:#FFB7A2;fill-rule:nonzero}
+    .fil166 {fill:#FFB8A3;fill-rule:nonzero}
+    .fil167 {fill:#FFB9A4;fill-rule:nonzero}
+    .fil168 {fill:#FFB9A5;fill-rule:nonzero}
+    .fil169 {fill:#FFBAA6;fill-rule:nonzero}
+    .fil170 {fill:#FFBBA7;fill-rule:nonzero}
+    .fil171 {fill:#FFBCA8;fill-rule:nonzero}
+    .fil172 {fill:#FFBDA9;fill-rule:nonzero}
+    .fil173 {fill:#FFBDAA;fill-rule:nonzero}
+    .fil174 {fill:#FFBEAB;fill-rule:nonzero}
+    .fil175 {fill:#FFBFAC;fill-rule:nonzero}
+    .fil176 {fill:#FFC0AD;fill-rule:nonzero}
+    .fil177 {fill:#FFC0AE;fill-rule:nonzero}
+    .fil178 {fill:#FFC1AF;fill-rule:nonzero}
+    .fil179 {fill:#FFC2B0;fill-rule:nonzero}
+    .fil180 {fill:#FFC3B1;fill-rule:nonzero}
+    .fil181 {fill:#FFC4B2;fill-rule:nonzero}
+    .fil182 {fill:#FFC4B3;fill-rule:nonzero}
+    .fil183 {fill:#FFC5B4;fill-rule:nonzero}
+    .fil184 {fill:#FFC6B5;fill-rule:nonzero}
+    .fil185 {fill:#FFC7B6;fill-rule:nonzero}
+    .fil186 {fill:#FFC7B7;fill-rule:nonzero}
+    .fil187 {fill:#FFC8B8;fill-rule:nonzero}
+    .fil188 {fill:#FFC9B9;fill-rule:nonzero}
+    .fil189 {fill:#FFCABA;fill-rule:nonzero}
+    .fil190 {fill:#FFCABB;fill-rule:nonzero}
+    .fil191 {fill:#FFCBBC;fill-rule:nonzero}
+    .fil192 {fill:#FFCCBD;fill-rule:nonzero}
+    .fil193 {fill:#FFCDBE;fill-rule:nonzero}
+    .fil194 {fill:#FFCEBF;fill-rule:nonzero}
+    .fil195 {fill:#FFCEC0;fill-rule:nonzero}
+    .fil196 {fill:#FFCFC1;fill-rule:nonzero}
+    .fil197 {fill:#FFD0C2;fill-rule:nonzero}
+    .fil198 {fill:#FFD1C3;fill-rule:nonzero}
+    .fil199 {fill:#FFD1C4;fill-rule:nonzero}
+    .fil200 {fill:#FFD2C5;fill-rule:nonzero}
+    .fil201 {fill:#FFD3C6;fill-rule:nonzero}
+    .fil202 {fill:#FFD4C7;fill-rule:nonzero}
+    .fil203 {fill:#FFD5C8;fill-rule:nonzero}
+    .fil204 {fill:#FFD5C9;fill-rule:nonzero}
+    .fil205 {fill:#FFD6CA;fill-rule:nonzero}
+    .fil206 {fill:#FFD7CB;fill-rule:nonzero}
+    .fil207 {fill:#FFD8CC;fill-rule:nonzero}
+    .fil208 {fill:#FFD8CD;fill-rule:nonzero}
+    .fil209 {fill:#FFD9CE;fill-rule:nonzero}
+    .fil210 {fill:#FFDACF;fill-rule:nonzero}
+    .fil211 {fill:#FFDBD0;fill-rule:nonzero}
+    .fil212 {fill:#FFDBD1;fill-rule:nonzero}
+    .fil213 {fill:#FFDCD2;fill-rule:nonzero}
+    .fil214 {fill:#FFDDD3;fill-rule:nonzero}
+    .fil215 {fill:#FFDED4;fill-rule:nonzero}
+    .fil216 {fill:#FFDFD5;fill-rule:nonzero}
+    .fil217 {fill:#FFDFD6;fill-rule:nonzero}
+    .fil218 {fill:#FFE0D7;fill-rule:nonzero}
+    .fil219 {fill:#FFE1D8;fill-rule:nonzero}
+    .fil220 {fill:#FFE2D9;fill-rule:nonzero}
+    .fil221 {fill:#FFE2DA;fill-rule:nonzero}
+    .fil222 {fill:#FFE3DB;fill-rule:nonzero}
+    .fil223 {fill:#FFE4DC;fill-rule:nonzero}
+    .fil224 {fill:#FFE5DD;fill-rule:nonzero}
+    .fil225 {fill:#FFE6DE;fill-rule:nonzero}
+    .fil226 {fill:#FFE6DF;fill-rule:nonzero}
+    .fil227 {fill:#FFE7E0;fill-rule:nonzero}
+    .fil228 {fill:#FFE8E1;fill-rule:nonzero}
+    .fil229 {fill:#FFE9E2;fill-rule:nonzero}
+    .fil230 {fill:#FFE9E3;fill-rule:nonzero}
+    .fil231 {fill:#FFEAE4;fill-rule:nonzero}
+    .fil232 {fill:#FFEBE5;fill-rule:nonzero}
+    .fil233 {fill:#FFECE6;fill-rule:nonzero}
+    .fil234 {fill:#FFECE7;fill-rule:nonzero}
+    .fil235 {fill:#FFEDE8;fill-rule:nonzero}
+    .fil236 {fill:#FFEEE9;fill-rule:nonzero}
+    .fil237 {fill:#FFEFEA;fill-rule:nonzero}
+    .fil238 {fill:#FFF0EB;fill-rule:nonzero}
+    .fil239 {fill:#FFF0EC;fill-rule:nonzero}
+    .fil240 {fill:#FFF1ED;fill-rule:nonzero}
+    .fil241 {fill:#FFF2EE;fill-rule:nonzero}
+    .fil242 {fill:#FFF3EF;fill-rule:nonzero}
+    .fil243 {fill:#FFF3F0;fill-rule:nonzero}
+    .fil244 {fill:#FFF4F1;fill-rule:nonzero}
+    .fil245 {fill:#FFF5F2;fill-rule:nonzero}
+    .fil246 {fill:#FFF6F3;fill-rule:nonzero}
+    .fil247 {fill:#FFF7F4;fill-rule:nonzero}
+    .fil248 {fill:#FFF7F5;fill-rule:nonzero}
+    .fil249 {fill:#FFF8F6;fill-rule:nonzero}
+    .fil250 {fill:#FFF9F7;fill-rule:nonzero}
+    .fil251 {fill:#FFFAF8;fill-rule:nonzero}
+    .fil252 {fill:#FFFAF9;fill-rule:nonzero}
+    .fil253 {fill:#FFFBFA;fill-rule:nonzero}
+    .fil254 {fill:#FFFCFB;fill-rule:nonzero}
+    .fil255 {fill:#FFFDFC;fill-rule:nonzero}
+    .fil256 {fill:#FFFDFD;fill-rule:nonzero}
+    .fil257 {fill:#FFFEFE;fill-rule:nonzero}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1719813317008">
+   <rect class="fil0" x="265" y="527" width="55430" height="38919"/>
+   <path class="fil1" d="M2655 36550l0 -572 -477 0c-237,0 -393,112 -393,284 0,172 152,287 393,287l477 0zm-609 250c-359,-34 -541,-267 -541,-538 0,-318 267,-538 673,-538l758 0 0 1709 -281 0 0 -629 -298 0 -511 629 -345 0 545 -633z"/>
+   <path class="fil1" d="M3366 36577c0,-535 376,-920 890,-920 419,0 771,264 832,629l-271 37c-64,-247 -298,-413 -558,-413 -349,0 -616,274 -612,667 0,396 261,670 609,670 267,0 494,-166 565,-406l274 34c-78,365 -433,626 -839,626 -518,0 -893,-389 -890,-924z"/>
+   <polygon class="fil1" points="5525,35725 5805,35725 5805,36442 6803,36442 6803,35725 7084,35725 7084,37433 6803,37433 6803,36696 5805,36696 5805,37433 5525,37433 "/>
+   <polygon class="fil1" points="7602,35725 7883,35725 7883,37034 7914,37034 8824,35725 9165,35725 9165,37433 8885,37433 8885,36127 8851,36127 7944,37433 7602,37433 "/>
+   <path class="fil1" d="M10001 34947l237 0c0,146 78,247 213,247 135,0 217,-101 217,-247l237 0c0,264 -190,453 -453,453 -264,0 -450,-190 -450,-453zm-318 778l281 0 0 1309 30 0 910 -1309 342 0 0 1709 -281 0 0 -1306 -34 0 -907 1306 -342 0 0 -1709z"/>
+   <path class="fil1" d="M14031 36425c-47,-308 -291,-514 -612,-514 -318,0 -555,206 -602,514l1215 0zm-1509 132c0,-521 379,-900 907,-900 521,0 900,379 900,903 0,34 0,75 -3,112l-1512 0c41,345 291,575 636,575 257,0 480,-129 585,-332l233 119c-135,291 -443,467 -822,467 -535,0 -924,-396 -924,-944z"/>
+   <polygon class="fil1" points="14759,35725 15040,35725 15040,36456 15074,36456 15805,35725 16177,35725 15334,36543 16197,37433 15822,37433 15074,36638 15040,36638 15040,37433 14759,37433 "/>
+   <path class="fil1" d="M16285 36577c0,-535 376,-920 890,-920 419,0 771,264 832,629l-271 37c-64,-247 -298,-413 -558,-413 -349,0 -616,274 -612,667 0,396 261,670 609,670 267,0 494,-166 565,-406l274 34c-78,365 -433,626 -839,626 -518,0 -893,-389 -890,-924z"/>
+   <polygon class="fil1" points="18444,35725 20034,35725 20034,37433 19754,37433 19754,35978 18725,35978 18725,37433 18444,37433 "/>
+   <path class="fil1" d="M21977 36425c-47,-308 -291,-514 -612,-514 -318,0 -555,206 -602,514l1215 0zm-1509 132c0,-521 379,-900 907,-900 521,0 900,379 900,903 0,34 0,75 -3,112l-1512 0c41,345 291,575 636,575 257,0 480,-129 585,-332l233 119c-135,291 -443,467 -822,467 -535,0 -924,-396 -924,-944z"/>
+   <path class="fil1" d="M22975 36577c0,376 267,670 636,670 365,0 633,-294 633,-670 0,-382 -267,-667 -633,-667 -369,0 -636,291 -636,667zm1549 0c0,534 -382,924 -880,924 -274,0 -504,-118 -629,-322l-30 0 0 1032 -281 0 0 -2487 281 0 0 261 30 0c125,-206 345,-328 626,-328 497,0 883,386 883,920z"/>
+   <polygon class="fil1" points="25358,35978 24738,35978 24738,35725 26254,35725 26254,35978 25638,35978 25638,37433 25358,37433 "/>
+   <path class="fil1" d="M6638 17057c-466,-281 -990,-424 -1559,-424 -458,0 -871,92 -1227,275 -295,151 -546,361 -748,626l0 -681 -1578 0 0 8796 1578 0 0 -3326c204,255 459,458 762,606 363,178 776,268 1225,268 569,0 1094,-142 1559,-423 465,-281 836,-675 1100,-1172 263,-495 397,-1060 397,-1680 0,-628 -136,-1198 -403,-1693 -268,-496 -640,-891 -1106,-1171zm-69 2864c0,347 -77,667 -228,951 -150,283 -361,509 -625,674 -263,163 -567,246 -903,246 -337,0 -643,-83 -910,-247 -268,-164 -480,-391 -630,-674 -151,-284 -228,-604 -228,-951 0,-355 77,-679 228,-963 150,-282 362,-509 630,-673 267,-164 573,-247 910,-247 329,0 631,83 898,247 268,164 480,391 630,673 151,284 228,608 228,963z"/>
+   <path class="fil1" d="M13800 17043c-491,-272 -1055,-409 -1676,-409 -629,0 -1198,138 -1693,409 -497,273 -891,659 -1172,1148 -280,488 -422,1047 -422,1661 0,636 144,1216 427,1723 284,508 684,911 1189,1195 503,284 1081,427 1718,427 698,0 1319,-150 1845,-445 532,-298 917,-720 1143,-1254l53 -124 -1331 -504 -54 100c-149,278 -368,500 -650,660 -283,161 -606,243 -960,243 -474,0 -875,-143 -1192,-424 -284,-252 -470,-586 -552,-994l4882 0 10 -119c8,-96 12,-251 12,-473 0,-621 -140,-1184 -416,-1672 -277,-490 -667,-876 -1161,-1149zm-2794 1298c294,-259 649,-384 1083,-384 436,0 811,131 1113,391 266,228 445,523 532,877l-3254 0c93,-361 269,-658 526,-884z"/>
+   <path class="fil1" d="M17886 22988l-1566 0 0 -6135 1543 0 0 632c136,-189 317,-351 539,-481 300,-177 624,-267 962,-267 305,0 559,52 754,154l70 36 0 1461 -178 -71c-146,-58 -299,-103 -456,-132 -157,-29 -295,-44 -410,-44 -371,0 -665,143 -899,437 -238,299 -359,700 -359,1192l0 3218z"/>
+   <path class="fil1" d="M21084 15854c-182,-182 -275,-418 -275,-699 0,-282 93,-515 276,-694 182,-178 417,-268 698,-268 288,0 527,90 709,268 183,179 276,412 276,694 0,281 -92,516 -275,699 -182,183 -422,275 -710,275 -281,0 -516,-92 -699,-275z"/>
+   <polygon class="fil1" points="21005,16853 22571,16853 22571,22988 21005,22988 "/>
+   <path class="fil1" d="M25191 22788c503,271 1084,409 1727,409 643,0 1225,-138 1727,-409 505,-273 904,-663 1185,-1161 280,-495 422,-1070 422,-1706 0,-637 -142,-1211 -422,-1706 -281,-497 -679,-890 -1184,-1166 -503,-275 -1084,-415 -1728,-415 -651,0 -1235,140 -1734,415 -501,277 -897,669 -1178,1166 -280,495 -422,1070 -422,1706 0,637 142,1211 422,1706 281,497 679,888 1185,1161zm816 -4508c267,-160 574,-242 911,-242 337,0 643,81 911,242 267,160 479,385 629,667 151,284 228,612 228,974 0,362 -77,690 -228,974 -150,282 -361,504 -628,660 -268,157 -575,237 -912,237 -337,0 -644,-80 -912,-237 -267,-156 -478,-379 -628,-660 -151,-284 -228,-612 -228,-974 0,-362 77,-690 228,-974 150,-282 362,-507 629,-667z"/>
+   <path class="fil1" d="M6126 29860l1492 193 -24 134c-81,452 -271,859 -565,1210 -293,349 -663,623 -1099,815 -434,191 -909,288 -1410,288 -621,0 -1183,-140 -1670,-415 -489,-276 -877,-668 -1153,-1165 -275,-495 -415,-1064 -415,-1692 0,-628 140,-1199 415,-1698 276,-501 664,-894 1153,-1171 487,-276 1049,-415 1670,-415 517,0 999,99 1434,294 437,196 802,473 1087,822 287,351 469,759 542,1211l21 132 -1495 194 -28 -112c-86,-343 -268,-614 -558,-829 -288,-213 -622,-321 -992,-321 -313,0 -601,81 -856,240 -256,160 -460,384 -607,666 -148,284 -222,616 -222,986 0,370 75,702 222,986 147,282 349,507 601,667 251,159 541,240 861,240 370,0 702,-108 985,-321 284,-213 478,-494 578,-834l31 -106z"/>
+   <path class="fil1" d="M13244 26353c-491,-271 -1054,-409 -1675,-409 -628,0 -1197,138 -1692,409 -497,272 -891,658 -1171,1147 -280,488 -422,1046 -422,1659 0,636 144,1215 427,1721 284,508 684,910 1188,1194 503,283 1080,427 1716,427 697,0 1317,-149 1843,-444 532,-298 916,-719 1142,-1253l53 -124 -1330 -504 -54 100c-149,277 -368,499 -649,660 -283,161 -606,243 -959,243 -473,0 -874,-143 -1191,-424 -284,-252 -469,-586 -551,-993l4877 0 10 -119c8,-96 12,-251 12,-473 0,-621 -140,-1183 -415,-1670 -276,-489 -667,-875 -1159,-1147zm-2791 1297c294,-258 648,-384 1082,-384 436,0 810,131 1112,391 266,228 444,522 532,876l-3251 0c93,-361 269,-657 526,-883z"/>
+   <path class="fil1" d="M21258 27250c205,394 309,850 309,1354l0 3689 -1576 0 0 -3585c0,-404 -111,-733 -331,-977 -219,-243 -511,-362 -892,-362 -261,0 -504,62 -722,186 -218,123 -395,294 -525,509 -129,213 -195,457 -195,724l0 3504 -1565 0 0 -6129 1565 0 0 675c201,-258 435,-462 698,-607 318,-175 674,-264 1056,-264 484,0 921,115 1298,342 377,227 673,544 880,941z"/>
+   <path class="fil1" d="M26072 31102l164 -45 0 1242 -85 31c-155,57 -335,100 -535,128 -198,28 -383,42 -549,42 -574,0 -1039,-187 -1383,-555 -341,-366 -514,-856 -514,-1458l0 -3083 -890 0 0 -1241 930 0 277 -1895 1259 0 -11 1895 1432 0 0 1241 -1433 0 0 3025c0,230 64,411 196,553 130,139 303,207 529,207 196,0 402,-30 613,-88z"/>
+   <path class="fil1" d="M31664 26353c-491,-271 -1054,-409 -1675,-409 -628,0 -1197,138 -1692,409 -497,272 -891,658 -1171,1147 -280,488 -422,1046 -422,1659 0,636 144,1215 427,1721 284,508 684,910 1188,1194 503,283 1080,427 1716,427 697,0 1317,-149 1843,-444 532,-298 916,-719 1142,-1253l53 -124 -1330 -504 -54 100c-149,277 -368,499 -649,660 -283,161 -606,243 -959,243 -474,0 -874,-143 -1191,-424 -284,-252 -469,-586 -551,-993l4878 0 10 -119c8,-96 12,-251 12,-473 0,-621 -140,-1183 -416,-1670 -276,-489 -666,-875 -1159,-1147zm-2791 1297c294,-258 648,-384 1082,-384 436,0 810,131 1112,391 266,228 444,522 532,876l-3251 0c93,-361 269,-657 526,-883z"/>
+   <path class="fil1" d="M38046 26237l0 1460 -177 -71c-146,-58 -299,-102 -455,-132 -157,-29 -295,-44 -410,-44 -370,0 -664,143 -898,437 -238,299 -359,699 -359,1191l0 3215 -1565 0 0 -6129 1541 0 0 632c136,-189 317,-350 539,-481 300,-177 623,-266 961,-266 305,0 558,52 753,153l69 36z"/>
+   <path class="fil2" d="M43127 1134c6306,0 11417,5112 11417,11417 0,6305 -5112,11417 -11417,11417 -6306,0 -11417,-5112 -11417,-11417 0,-6305 5112,-11417 11417,-11417zm0 5805c3099,0 5612,2513 5612,5612 0,3099 -2513,5612 -5612,5612 -3099,0 -5612,-2513 -5612,-5612 0,-3099 2513,-5612 5612,-5612z"/>
+   <circle class="fil3" cx="51696" cy="12773" r="2964"/>
+   <circle class="fil4" cx="51693" cy="12992" r="2964"/>
+   <circle class="fil5" cx="51685" cy="13210" r="2964"/>
+   <circle class="fil6" cx="51671" cy="13426" r="2964"/>
+   <circle class="fil7" cx="51652" cy="13641" r="2964"/>
+   <circle class="fil8" cx="51627" cy="13854" r="2964"/>
+   <circle class="fil9" cx="51597" cy="14065" r="2964"/>
+   <circle class="fil10" cx="51563" cy="14275" r="2964"/>
+   <circle class="fil11" cx="51522" cy="14483" r="2964"/>
+   <circle class="fil12" cx="51477" cy="14690" r="2964"/>
+   <circle class="fil13" cx="51427" cy="14894" r="2964"/>
+   <circle class="fil14" cx="51373" cy="15096" r="2964"/>
+   <circle class="fil15" cx="51312" cy="15297" r="2964"/>
+   <circle class="fil16" cx="51248" cy="15495" r="2964"/>
+   <circle class="fil17" cx="51179" cy="15690" r="2964"/>
+   <circle class="fil18" cx="51105" cy="15884" r="2964"/>
+   <circle class="fil19" cx="51026" cy="16076" r="2964"/>
+   <circle class="fil20" cx="50943" cy="16265" r="2964"/>
+   <circle class="fil21" cx="50856" cy="16451" r="2964"/>
+   <circle class="fil22" cx="50764" cy="16635" r="2964"/>
+   <circle class="fil23" cx="50668" cy="16817" r="2964"/>
+   <circle class="fil24" cx="50567" cy="16996" r="2964"/>
+   <circle class="fil25" cx="50462" cy="17172" r="2964"/>
+   <circle class="fil26" cx="50354" cy="17345" r="2964"/>
+   <circle class="fil27" cx="50241" cy="17516" r="2964"/>
+   <circle class="fil28" cx="50124" cy="17683" r="2964"/>
+   <circle class="fil29" cx="50004" cy="17848" r="2964"/>
+   <circle class="fil30" cx="49879" cy="18009" r="2964"/>
+   <circle class="fil31" cx="49751" cy="18168" r="2964"/>
+   <circle class="fil32" cx="49619" cy="18323" r="2964"/>
+   <circle class="fil33" cx="49483" cy="18475" r="2964"/>
+   <circle class="fil34" cx="49344" cy="18624" r="2964"/>
+   <circle class="fil35" cx="49202" cy="18769" r="2964"/>
+   <circle class="fil36" cx="49055" cy="18911" r="2964"/>
+   <circle class="fil37" cx="48906" cy="19049" r="2964"/>
+   <circle class="fil38" cx="48753" cy="19184" r="2964"/>
+   <circle class="fil39" cx="48597" cy="19315" r="2964"/>
+   <circle class="fil40" cx="48438" cy="19442" r="2964"/>
+   <circle class="fil41" cx="48276" cy="19566" r="2964"/>
+   <circle class="fil42" cx="48110" cy="19685" r="2964"/>
+   <circle class="fil43" cx="47942" cy="19801" r="2964"/>
+   <circle class="fil44" cx="47771" cy="19913" r="2964"/>
+   <circle class="fil45" cx="47597" cy="20020" r="2964"/>
+   <circle class="fil46" cx="47420" cy="20124" r="2964"/>
+   <circle class="fil47" cx="47240" cy="20223" r="2964"/>
+   <circle class="fil48" cx="47058" cy="20318" r="2964"/>
+   <circle class="fil49" cx="46873" cy="20409" r="2964"/>
+   <circle class="fil50" cx="46686" cy="20495" r="2964"/>
+   <circle class="fil51" cx="46497" cy="20577" r="2964"/>
+   <circle class="fil52" cx="46305" cy="20655" r="2964"/>
+   <circle class="fil53" cx="46110" cy="20728" r="2964"/>
+   <circle class="fil54" cx="45914" cy="20796" r="2964"/>
+   <circle class="fil55" cx="45715" cy="20859" r="2964"/>
+   <circle class="fil56" cx="45514" cy="20918" r="2964"/>
+   <circle class="fil57" cx="45312" cy="20972" r="2964"/>
+   <circle class="fil58" cx="45107" cy="21021" r="2964"/>
+   <circle class="fil59" cx="44900" cy="21064" r="2964"/>
+   <circle class="fil60" cx="44692" cy="21103" r="2964"/>
+   <circle class="fil61" cx="44482" cy="21137" r="2964"/>
+   <circle class="fil62" cx="44270" cy="21165" r="2964"/>
+   <circle class="fil63" cx="44056" cy="21188" r="2964"/>
+   <circle class="fil64" cx="43841" cy="21206" r="2964"/>
+   <circle class="fil65" cx="43624" cy="21219" r="2964"/>
+   <circle class="fil66" cx="43406" cy="21225" r="2964"/>
+   <circle class="fil67" cx="43187" cy="21227" r="2964"/>
+   <circle class="fil68" cx="42968" cy="21222" r="2964"/>
+   <circle class="fil69" cx="42751" cy="21213" r="2964"/>
+   <circle class="fil70" cx="42535" cy="21198" r="2964"/>
+   <circle class="fil71" cx="42321" cy="21177" r="2964"/>
+   <circle class="fil72" cx="42108" cy="21152" r="2964"/>
+   <circle class="fil73" cx="41897" cy="21121" r="2964"/>
+   <circle class="fil74" cx="41688" cy="21084" r="2964"/>
+   <circle class="fil75" cx="41480" cy="21043" r="2964"/>
+   <circle class="fil76" cx="41275" cy="20997" r="2964"/>
+   <circle class="fil77" cx="41071" cy="20946" r="2964"/>
+   <circle class="fil78" cx="40869" cy="20889" r="2964"/>
+   <circle class="fil79" cx="40669" cy="20828" r="2964"/>
+   <circle class="fil80" cx="40471" cy="20762" r="2964"/>
+   <circle class="fil81" cx="40276" cy="20692" r="2964"/>
+   <circle class="fil82" cx="40083" cy="20617" r="2964"/>
+   <circle class="fil83" cx="39892" cy="20537" r="2964"/>
+   <circle class="fil84" cx="39704" cy="20453" r="2964"/>
+   <circle class="fil85" cx="39518" cy="20365" r="2964"/>
+   <circle class="fil86" cx="39334" cy="20271" r="2964"/>
+   <circle class="fil87" cx="39153" cy="20174" r="2964"/>
+   <circle class="fil88" cx="38975" cy="20073" r="2964"/>
+   <circle class="fil89" cx="38800" cy="19967" r="2964"/>
+   <circle class="fil90" cx="38627" cy="19857" r="2964"/>
+   <circle class="fil91" cx="38457" cy="19744" r="2964"/>
+   <circle class="fil92" cx="38291" cy="19626" r="2964"/>
+   <circle class="fil93" cx="38127" cy="19504" r="2964"/>
+   <circle class="fil94" cx="37966" cy="19379" r="2964"/>
+   <circle class="fil95" cx="37808" cy="19250" r="2964"/>
+   <circle class="fil96" cx="37654" cy="19117" r="2964"/>
+   <circle class="fil97" cx="37503" cy="18980" r="2964"/>
+   <circle class="fil98" cx="37355" cy="18840" r="2964"/>
+   <circle class="fil99" cx="37210" cy="18697" r="2964"/>
+   <circle class="fil100" cx="37070" cy="18550" r="2964"/>
+   <circle class="fil101" cx="36932" cy="18399" r="2964"/>
+   <circle class="fil102" cx="36799" cy="18246" r="2964"/>
+   <circle class="fil103" cx="36668" cy="18089" r="2964"/>
+   <circle class="fil104" cx="36542" cy="17929" r="2964"/>
+   <circle class="fil105" cx="36419" cy="17766" r="2964"/>
+   <circle class="fil106" cx="36301" cy="17600" r="2964"/>
+   <circle class="fil107" cx="36186" cy="17431" r="2964"/>
+   <circle class="fil108" cx="36075" cy="17259" r="2964"/>
+   <circle class="fil109" cx="35969" cy="17084" r="2964"/>
+   <circle class="fil110" cx="35866" cy="16907" r="2964"/>
+   <circle class="fil111" cx="35767" cy="16726" r="2964"/>
+   <circle class="fil112" cx="35673" cy="16544" r="2964"/>
+   <circle class="fil113" cx="35584" cy="16358" r="2964"/>
+   <circle class="fil114" cx="35499" cy="16171" r="2964"/>
+   <circle class="fil115" cx="35418" cy="15980" r="2964"/>
+   <circle class="fil116" cx="35342" cy="15788" r="2964"/>
+   <circle class="fil117" cx="35270" cy="15593" r="2964"/>
+   <circle class="fil118" cx="35203" cy="15396" r="2964"/>
+   <circle class="fil119" cx="35141" cy="15197" r="2964"/>
+   <circle class="fil120" cx="35083" cy="14995" r="2964"/>
+   <circle class="fil121" cx="35031" cy="14792" r="2964"/>
+   <circle class="fil122" cx="34983" cy="14587" r="2964"/>
+   <circle class="fil123" cx="34941" cy="14380" r="2964"/>
+   <circle class="fil124" cx="34903" cy="14171" r="2964"/>
+   <circle class="fil125" cx="34871" cy="13960" r="2964"/>
+   <circle class="fil126" cx="34844" cy="13748" r="2964"/>
+   <circle class="fil127" cx="34822" cy="13534" r="2964"/>
+   <circle class="fil128" cx="34805" cy="13318" r="2964"/>
+   <circle class="fil129" cx="34795" cy="13101" r="2964"/>
+   <circle class="fil130" cx="34789" cy="12883" r="2964"/>
+   <circle class="fil131" cx="34789" cy="12664" r="2964"/>
+   <circle class="fil132" cx="34795" cy="12445" r="2964"/>
+   <circle class="fil133" cx="34805" cy="12229" r="2964"/>
+   <circle class="fil134" cx="34822" cy="12013" r="2964"/>
+   <circle class="fil135" cx="34844" cy="11799" r="2964"/>
+   <circle class="fil136" cx="34871" cy="11587" r="2964"/>
+   <circle class="fil137" cx="34903" cy="11376" r="2964"/>
+   <circle class="fil138" cx="34941" cy="11167" r="2964"/>
+   <circle class="fil139" cx="34983" cy="10960" r="2964"/>
+   <circle class="fil140" cx="35031" cy="10755" r="2964"/>
+   <circle class="fil141" cx="35083" cy="10551" r="2964"/>
+   <circle class="fil142" cx="35141" cy="10350" r="2964"/>
+   <circle class="fil143" cx="35203" cy="10151" r="2964"/>
+   <circle class="fil144" cx="35270" cy="9954" r="2964"/>
+   <circle class="fil145" cx="35342" cy="9759" r="2964"/>
+   <circle class="fil146" cx="35418" cy="9566" r="2964"/>
+   <circle class="fil147" cx="35499" cy="9376" r="2964"/>
+   <circle class="fil148" cx="35584" cy="9188" r="2964"/>
+   <circle class="fil149" cx="35673" cy="9003" r="2964"/>
+   <circle class="fil150" cx="35767" cy="8820" r="2964"/>
+   <circle class="fil151" cx="35866" cy="8640" r="2964"/>
+   <circle class="fil152" cx="35969" cy="8462" r="2964"/>
+   <circle class="fil153" cx="36075" cy="8288" r="2964"/>
+   <circle class="fil154" cx="36186" cy="8116" r="2964"/>
+   <circle class="fil155" cx="36301" cy="7947" r="2964"/>
+   <circle class="fil156" cx="36419" cy="7781" r="2964"/>
+   <circle class="fil157" cx="36542" cy="7618" r="2964"/>
+   <circle class="fil158" cx="36668" cy="7458" r="2964"/>
+   <circle class="fil159" cx="36799" cy="7301" r="2964"/>
+   <circle class="fil160" cx="36932" cy="7147" r="2964"/>
+   <circle class="fil161" cx="37070" cy="6997" r="2964"/>
+   <circle class="fil162" cx="37210" cy="6850" r="2964"/>
+   <circle class="fil163" cx="37355" cy="6707" r="2964"/>
+   <circle class="fil164" cx="37503" cy="6567" r="2964"/>
+   <circle class="fil165" cx="37654" cy="6430" r="2964"/>
+   <circle class="fil166" cx="37808" cy="6297" r="2964"/>
+   <circle class="fil167" cx="37966" cy="6168" r="2964"/>
+   <circle class="fil168" cx="38127" cy="6042" r="2964"/>
+   <circle class="fil169" cx="38291" cy="5921" r="2964"/>
+   <circle class="fil170" cx="38457" cy="5803" r="2964"/>
+   <circle class="fil171" cx="38627" cy="5689" r="2964"/>
+   <circle class="fil172" cx="38800" cy="5580" r="2964"/>
+   <circle class="fil173" cx="38975" cy="5474" r="2964"/>
+   <circle class="fil174" cx="39153" cy="5372" r="2964"/>
+   <circle class="fil175" cx="39334" cy="5275" r="2964"/>
+   <circle class="fil176" cx="39518" cy="5182" r="2964"/>
+   <circle class="fil177" cx="39704" cy="5094" r="2964"/>
+   <circle class="fil178" cx="39892" cy="5009" r="2964"/>
+   <circle class="fil179" cx="40083" cy="4930" r="2964"/>
+   <circle class="fil180" cx="40276" cy="4855" r="2964"/>
+   <circle class="fil181" cx="40471" cy="4784" r="2964"/>
+   <circle class="fil182" cx="40669" cy="4718" r="2964"/>
+   <circle class="fil183" cx="40869" cy="4658" r="2964"/>
+   <circle class="fil184" cx="41071" cy="4601" r="2964"/>
+   <circle class="fil185" cx="41275" cy="4550" r="2964"/>
+   <circle class="fil186" cx="41480" cy="4504" r="2964"/>
+   <circle class="fil187" cx="41688" cy="4462" r="2964"/>
+   <circle class="fil188" cx="41897" cy="4426" r="2964"/>
+   <circle class="fil189" cx="42108" cy="4395" r="2964"/>
+   <circle class="fil190" cx="42321" cy="4369" r="2964"/>
+   <circle class="fil191" cx="42535" cy="4349" r="2964"/>
+   <circle class="fil192" cx="42751" cy="4334" r="2964"/>
+   <circle class="fil193" cx="42968" cy="4324" r="2964"/>
+   <circle class="fil194" cx="43187" cy="4320" r="2964"/>
+   <circle class="fil195" cx="43406" cy="4321" r="2964"/>
+   <circle class="fil196" cx="43624" cy="4328" r="2964"/>
+   <circle class="fil197" cx="43841" cy="4341" r="2964"/>
+   <circle class="fil198" cx="44056" cy="4358" r="2964"/>
+   <circle class="fil199" cx="44270" cy="4382" r="2964"/>
+   <circle class="fil200" cx="44482" cy="4410" r="2964"/>
+   <circle class="fil201" cx="44692" cy="4443" r="2964"/>
+   <circle class="fil202" cx="44900" cy="4482" r="2964"/>
+   <circle class="fil203" cx="45107" cy="4526" r="2964"/>
+   <circle class="fil204" cx="45312" cy="4575" r="2964"/>
+   <circle class="fil205" cx="45514" cy="4629" r="2964"/>
+   <circle class="fil206" cx="45715" cy="4687" r="2964"/>
+   <circle class="fil207" cx="45914" cy="4751" r="2964"/>
+   <circle class="fil208" cx="46110" cy="4819" r="2964"/>
+   <circle class="fil209" cx="46305" cy="4892" r="2964"/>
+   <circle class="fil210" cx="46497" cy="4969" r="2964"/>
+   <circle class="fil211" cx="46686" cy="5051" r="2964"/>
+   <circle class="fil212" cx="46873" cy="5137" r="2964"/>
+   <circle class="fil213" cx="47058" cy="5228" r="2964"/>
+   <circle class="fil214" cx="47240" cy="5323" r="2964"/>
+   <circle class="fil215" cx="47420" cy="5423" r="2964"/>
+   <circle class="fil216" cx="47597" cy="5526" r="2964"/>
+   <circle class="fil217" cx="47771" cy="5634" r="2964"/>
+   <circle class="fil218" cx="47942" cy="5746" r="2964"/>
+   <circle class="fil219" cx="48110" cy="5862" r="2964"/>
+   <circle class="fil220" cx="48276" cy="5981" r="2964"/>
+   <circle class="fil221" cx="48438" cy="6104" r="2964"/>
+   <circle class="fil222" cx="48597" cy="6232" r="2964"/>
+   <circle class="fil223" cx="48753" cy="6363" r="2964"/>
+   <circle class="fil224" cx="48906" cy="6498" r="2964"/>
+   <circle class="fil225" cx="49055" cy="6636" r="2964"/>
+   <circle class="fil226" cx="49202" cy="6778" r="2964"/>
+   <circle class="fil227" cx="49344" cy="6923" r="2964"/>
+   <circle class="fil228" cx="49483" cy="7072" r="2964"/>
+   <circle class="fil229" cx="49619" cy="7224" r="2964"/>
+   <circle class="fil230" cx="49751" cy="7379" r="2964"/>
+   <circle class="fil231" cx="49879" cy="7537" r="2964"/>
+   <circle class="fil232" cx="50004" cy="7699" r="2964"/>
+   <circle class="fil233" cx="50124" cy="7863" r="2964"/>
+   <circle class="fil234" cx="50241" cy="8031" r="2964"/>
+   <circle class="fil235" cx="50354" cy="8201" r="2964"/>
+   <circle class="fil236" cx="50462" cy="8375" r="2964"/>
+   <circle class="fil237" cx="50567" cy="8551" r="2964"/>
+   <circle class="fil238" cx="50668" cy="8730" r="2964"/>
+   <circle class="fil239" cx="50764" cy="8911" r="2964"/>
+   <circle class="fil240" cx="50856" cy="9095" r="2964"/>
+   <circle class="fil241" cx="50943" cy="9282" r="2964"/>
+   <circle class="fil242" cx="51026" cy="9471" r="2964"/>
+   <circle class="fil243" cx="51105" cy="9663" r="2964"/>
+   <circle class="fil244" cx="51179" cy="9856" r="2964"/>
+   <circle class="fil245" cx="51248" cy="10052" r="2964"/>
+   <circle class="fil246" cx="51312" cy="10250" r="2964"/>
+   <circle class="fil247" cx="51373" cy="10450" r="2964"/>
+   <circle class="fil248" cx="51427" cy="10653" r="2964"/>
+   <circle class="fil249" cx="51477" cy="10857" r="2964"/>
+   <circle class="fil250" cx="51522" cy="11063" r="2964"/>
+   <circle class="fil251" cx="51563" cy="11271" r="2964"/>
+   <circle class="fil252" cx="51597" cy="11481" r="2964"/>
+   <circle class="fil253" cx="51627" cy="11693" r="2964"/>
+   <circle class="fil254" cx="51652" cy="11906" r="2964"/>
+   <circle class="fil255" cx="51671" cy="12120" r="2964"/>
+   <circle class="fil256" cx="51685" cy="12337" r="2964"/>
+   <circle class="fil257" cx="51693" cy="12554" r="2964"/>
+   <circle class="fil1" cx="51696" cy="12773" r="2964"/>
+  </g>
+ </g>
+</svg>
