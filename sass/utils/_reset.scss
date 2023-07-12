@@ -19,7 +19,7 @@ p {
 }
 
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	letter-spacing: 0.03em;
 	background-color: var(--primary-bg-color);
 }
@@ -45,10 +45,4 @@ img {
 
 .text--aligned-center {
 	text-align: center;
-}
-
-.wrapper {
-	min-height: 100vh;
-	display: grid;
-	grid-template-rows: auto 1fr auto;
 }

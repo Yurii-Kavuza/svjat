@@ -5,10 +5,11 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Seit-promotion – Виробництво зовнішньої та інтер'єрної реклами</title>
-		<link
-			href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap"
-			rel="stylesheet"
-		/>
+		<link rel="icon" href="./images/favicon-32x32.jpg" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet" />
+
 		<link
 			rel="stylesheet"
 			href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.css"
@@ -21,57 +22,59 @@
 	<body>
 		<div class="wrapper">
 			<header class="header">
-				<div class="container header__container">
+				<div class="container">
 					<nav class="main-nav">
 						<a href="./" class="logo main-nav__logo">
-							<img src="./images/logo-Seit-Promotion.svg" alt="логотип" class="logo" />
+							<img src="./images/logoOriginal.png" alt="логотип" />
 						</a>
-						<div class="main-nav__main-part">
-							<ul class="contacts list">
-								<li class="contacts__item item">
-									<a href="mailto:seitpromotion@ukr.net" class="contacts__link contacts__link--email link">
-										<svg class="icon contacts__icon">
-											<use href="./images/icons.svg#envelope"></use>
-										</svg>
-										seitpromotion@ukr.net
-									</a>
-								</li>
-								<li class="contacts__item item">
-									<a href="tel:+380961111111" class="contacts__link contacts__link--phone link">
-										<svg class="icon contacts__icon">
-											<use href="./images/icons.svg#smartphone"></use>
-										</svg>
-										+38 096 111 11 11
-									</a>
-								</li>
-								<li class="contacts__item item">
-									<a href="tel:+380961111111" class="contacts__link contacts__link--phone link">
-										<svg class="icon contacts__icon">
-											<use href="./images/icons.svg#smartphone"></use>
-										</svg>
-										+38 096 111 11 11
-									</a>
-								</li>
-							</ul>
-							<ul class="site-nav menu main-nav__menu list">
-								<li class="menu__item item">
-									<a href="" class="menu__link link">Зовнішня реклама</a>
-								</li>
-								<li class="menu__item item">
-									<a href="" class="menu__link link">Інтер'єрна реклама</a>
-								</li>
-								<li class="menu__item item">
-									<a href="" class="menu__link link">Портфоліо</a>
-								</li>
-								<li class="menu__item item">
-									<a href="" class="menu__link link">Про нас</a>
-								</li>
-								<li class="menu__item item"><a href="" class="menu__link link">Контакти</a></li>
-								<li class="menu__item item">
-									<a href="https://seit-horeca.com.ua" class="menu__link link">SEIT-HORECA</a>
-								</li>
-							</ul>
-						</div>
+						<ul class="site-nav menu main-nav__menu list">
+							<li class="menu__item item">
+								<a href="" class="menu__link menu__link--ad link">
+									Зовнішня реклама
+									<svg class="icon chevron"><use href="./images/icons.svg#chevronDown"></use></svg>
+								</a>
+							</li>
+							<li class="menu__item item">
+								<a href="" class="menu__link menu__link--ad link">
+									Інтер'єрна реклама
+									<svg class="icon chevron"><use href="./images/icons.svg#chevronDown"></use></svg>
+								</a>
+							</li>
+							<li class="menu__item item">
+								<a href="" class="menu__link link">Про нас</a>
+							</li>
+							<li class="menu__item item"><a href="" class="menu__link link">Контакти</a></li>
+							<li class="menu__item item menu__item--contacts">
+								<ul class="menu__contacts-list list">
+									<li class="menu__contacts-item">
+										<a class="menu__contacts-link link" href="" aria-label="Phone">
+											<svg class="icon phone"><use href="./images/icons.svg#phone"></use></svg>
+										</a>
+									</li>
+									<li class="menu__contacts-item">
+										<a class="menu__contacts-link link" href="" aria-label="Email">
+											<svg class="icon mail"><use href="./images/icons.svg#mail"></use></svg>
+										</a>
+									</li>
+									<li class="menu__contacts-item">
+										<a class="menu__contacts-link link" href="" aria-label="Instagram">
+											<svg class="icon"><use href="./images/icons.svg#instagram"></use></svg>
+										</a>
+									</li>
+									<li class="menu__contacts-item">
+										<a class="menu__contacts-link link" href="" aria-label="Facebook">
+											<svg class="icon"><use href="./images/icons.svg#facebook"></use></svg>
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li class="menu__item item">
+								<a href="" class="menu__link menu__link--lang link">
+									<svg class="icon globe"><use href="./images/icons.svg#globe"></use></svg>
+									<span lang="en">RU</span>
+								</a>
+							</li>
+						</ul>
 
 						<button type="button" class="menu__open">
 							<svg class="menu__icon-open">
@@ -138,44 +141,91 @@
 				</section>
 				<section class="what-we-do">
 					<div class="container">
-						<h2>Види реклами</h2>
-						<ul>
-							<li>
-								<a href="">
-									<img src="./images/products/volumetric-letters.jpg" alt="Об'ємні літери" />
-									<p class="">Об'ємні літери</p>
+						<h2 class="section__title">Види реклами</h2>
+						<ul class="what-we-do__list list">
+							<li class="what-we-do__item">
+								<a href="" class="what-we-do__link link">
+									<figure class="figure">
+										<div class="what-we-do__thumb">
+											<img
+												class="what-we-do__img"
+												src="./images/products/volumetric-letters.jpg"
+												alt="Об'ємні літери"
+											/>
+										</div>
+										<figcaption class="what-we-do__label">Об'ємні літери</figcaption>
+									</figure>
 								</a>
 							</li>
-							<li>
-								<a href="">
-									<img src="./images/products/roof-constructions.jpg" alt="Дахові конструкції" />
-									<p class="">Дахові конструкції</p>
+							<li class="what-we-do__item">
+								<a href="" class="what-we-do__link link">
+									<figure class="figure">
+										<div class="what-we-do__thumb">
+											<img
+												class="what-we-do__img"
+												src="./images/products/roof-constructions.jpg"
+												alt="Дахові конструкції"
+											/>
+										</div>
+										<figcaption class="what-we-do__label">Дахові конструкції</figcaption>
+									</figure>
 								</a>
 							</li>
-							<li>
-								<a href="">
-									<img src="./images/products/entrance-groups.jpg" alt="Вхідні групи" />
-									<p class="">Вхідні групи</p>
+							<li class="what-we-do__item">
+								<a href="" class="what-we-do__link link">
+									<figure class="figure">
+										<div class="what-we-do__thumb">
+											<img class="what-we-do__img" src="./images/products/entrance-groups.jpg" alt="Вхідні групи" />
+										</div>
+										<figcaption class="what-we-do__label">Вхідні групи</figcaption>
+									</figure>
 								</a>
 							</li>
-							<li>
-								<a href="">
-									<img src="./images/products/interior-signboards.jpg" alt="Інтер'єрні вивіски" />
-									<p class="">Інтер'єрні вивіски</p>
+							<li class="what-we-do__item">
+								<a href="" class="what-we-do__link link">
+									<figure class="figure">
+										<div class="what-we-do__thumb">
+											<img
+												class="what-we-do__img"
+												src="./images/products/interior-signboards.jpg"
+												alt="Інтер'єрні вивіски"
+											/>
+										</div>
+										<figcaption class="what-we-do__label">Інтер'єрні вивіски</figcaption>
+									</figure>
 								</a>
 							</li>
-							<li>
-								<a href="">
-									<img src="./images/products/lightboxes.jpg" alt="Лайтбокси" />
-									<p class="">Лайтбокси</p>
+							<li class="what-we-do__item">
+								<a href="" class="what-we-do__link link">
+									<figure class="figure">
+										<div class="what-we-do__thumb">
+											<img class="what-we-do__img" src="./images/products/lightboxes.jpg" alt="Лайтбокси" />
+										</div>
+										<figcaption class="what-we-do__label">Лайтбокси</figcaption>
+									</figure>
 								</a>
 							</li>
-							<li>
-								<a href="">
-									<img src="./images/products/reception.jpg" alt="Оформлення зони ресепшн" />
-									<p class="">Оформлення зони ресепшн</p>
+							<li class="what-we-do__item">
+								<a href="" class="what-we-do__link link">
+									<figure class="figure">
+										<div class="what-we-do__thumb">
+											<img
+												class="what-we-do__img"
+												src="./images/products/reception.jpg"
+												alt="Оформлення зони ресепшн"
+											/>
+										</div>
+										<figcaption class="what-we-do__label">Оформлення зони ресепшн</figcaption>
+									</figure>
 								</a>
 							</li>
+
+							<!-- <li class="what-we-do__item">
+								<a href="" class="what-we-do__link link">
+									<img class="what-we-do__img" src="./images/products/reception.jpg" alt="Оформлення зони ресепшн" />
+									<p class="what-we-do__label">Оформлення зони ресепшн</p>
+								</a>
+							</li> -->
 						</ul>
 					</div>
 				</section>

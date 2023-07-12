@@ -1,3 +1,5 @@
+
+
 .container {
 	width: 100%;
 	padding-left: 15px;
@@ -15,17 +17,25 @@
 
 	@media screen and (min-width: 1200px) {
 		width: 1200px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	@media screen and (min-width: 1440px) {
+		width: 1440px;
+		padding-left: 100px;
+		padding-right: 100px;
 	}
 }
 
-.container--mobile {
-	position: relative;
-	width: 100%;
-	padding: 48px 40px;
-	margin-left: auto;
-	margin-right: auto;
+// .container--mobile {
+// 	position: relative;
+// 	width: 100%;
+// 	padding: 48px 40px;
+// 	margin-left: auto;
+// 	margin-right: auto;
 
-	display: flex;
-	flex-direction: column;
-	height: 100%;
-}
+// 	display: flex;
+// 	flex-direction: column;
+// 	height: 100%;
+// }

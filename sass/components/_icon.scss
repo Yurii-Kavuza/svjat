@@ -1,0 +1,27 @@
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+.phone {
+    fill:none;
+}
+
+.mail,
+.chevron {
+    fill: none;
+}
+
+.chevron,
+.globe {
+    width: 1.2em;
+    height: 1.2em;
+}
+
+.globe {
+    stroke: currentColor;
+}
