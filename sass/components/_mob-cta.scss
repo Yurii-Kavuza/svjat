@@ -3,7 +3,7 @@
     padding-bottom: 3rem;
     color: var(--primary-text-color);
 
-    @media screen and (min-width: 1200px) {
+    @media screen and (min-width: 768px) {
         display: none;
     }
 }
@@ -13,6 +13,10 @@
     justify-content: center;
     align-items: center;
     gap: 42px;
+
+    @media screen and (min-width: 480px) {
+            justify-content: space-evenly;
+        }
 }
 
 .mob-cta__item{

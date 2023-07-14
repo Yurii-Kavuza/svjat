@@ -9,10 +9,13 @@
 	}
 }
 .what-we-do__list {
+	display: flex;
+flex-direction: column;
+gap: 32px;
+
 	@media screen and (min-width: 768px) {
-		display: flex;
+		flex-direction: row;
 		flex-wrap: wrap;
-		// padding-top: 90px;
 		padding-bottom: 5.625rem;
 		gap: 30px;
 	}
@@ -41,7 +44,7 @@
 
 .what-we-do__thumb {
 	height: 250px;
-	width: 370px;
+	width: 343px;
 
 	& > img {
 		display: block;
@@ -54,19 +57,22 @@
 
 .what-we-do__label {
 	bottom: 0;
-
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	width: 100%;
 
-	font-weight: 700;
-	font-size: 14px;
-	line-height: 1.14;
+	font-size: 1.25rem;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
 	text-align: center;
-	text-transform: uppercase;
 
 	color: var(--primary-title-color);
+
+	@media screen and (min-width: 1200px) {
+			font-size: 1.5rem;
+		}
 }
 
 .what-we-do__cta {
