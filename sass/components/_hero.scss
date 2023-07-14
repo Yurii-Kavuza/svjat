@@ -1,13 +1,13 @@
 .hero {
-	margin: 0 auto;
+	margin: -76 auto 0;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	height: 400px;
+	height: 100vh;
 
-	text-align: center;
+	align-items: flex-start;
 
-	color: var(--primary-text-color-light);
+	color: var(--primary-text-color);
 	background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero-bg-mob.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -43,22 +43,25 @@
 			background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero-bg-2x.jpg);
 		}
 	}
+
+	@media screen and (min-width: 1440px){
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
 
-.hero__title {
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 30px;
+.hero__title {	
+	margin-bottom: 0.75rem;
 
-	font-weight: 900;
-	letter-spacing: 0.06em;
+	font-weight: 700;
+	font-size: 1.75rem;
+	line-height: normal;
+	letter-spacing: 0.012em;
 	text-transform: uppercase;
 
-	@media screen and (min-width: 320px) {
-		width: 80%;
-		font-size: 26px;
-		line-height: 1.62;
-	}
+	color: var(--primary-title-color);
+
+
 
 	@media screen and (min-width: 480px) {
 		width: 360px;
@@ -69,4 +72,10 @@
 		font-size: 44px;
 		line-height: 1.36;
 	}
+}
+
+.hero__profits-list{
+	display: flex;
+	flex-direction: column;
+	gap:0.25rem;
 }
