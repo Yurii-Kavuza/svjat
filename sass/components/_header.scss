@@ -2,7 +2,7 @@
 .header {
 	width: 100%;
 	position: fixed;
-	z-index: 3;
+	z-index: 50;
 	top: 0;
 	left: 0;
 	background: var(--header-bg-color);
@@ -22,14 +22,14 @@
 }
 
 .main-nav__logo {
-	width:89px;
+	width: 89px;
 	padding-top: 14px;
 	padding-bottom: 12px;
 
 	@media screen and (min-width: 1200px) {
-			width: 111px;
-			padding-top: 8px;
-			padding-bottom: 8px;
+		width: 111px;
+		padding-top: 8px;
+		padding-bottom: 8px;
 	}
 }
 
@@ -40,7 +40,7 @@
 	font-weight: 500;
 	letter-spacing: 0.02em;
 
-	@media screen and (min-width: 768px) {
+	@media screen and (min-width: 1200px) {
 		display: flex;
 		justify-content: space-between;
 	}
@@ -54,16 +54,16 @@
 	letter-spacing: 0.015rem;
 
 	@media screen and (min-width: 1200px) {
-			display: flex;
-			justify-content: space-between;
-			align-items: center;
-			gap: 1.2rem;
-			font-size: 1.1rem;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 1.2rem;
+		font-size: 1.1rem;
 	}
 
-		@media screen and (min-width: 1440px) {
-			font-size: 1.25rem;
-		}
+	@media screen and (min-width: 1440px) {
+		font-size: 1.25rem;
+	}
 }
 
 .contacts {
@@ -107,7 +107,7 @@
 	display: block;
 	padding-top: 27px;
 	padding-bottom: 27px;
-	
+
 	transition: color var(--first-transition-duration) var(--first-transition-function);
 	-webkit-transition: color var(--first-transition-duration) var(--first-transition-function);
 	-moz-transition: color var(--first-transition-duration) var(--first-transition-function);
@@ -139,16 +139,15 @@
 }
 
 .menu__link--ad,
-.menu__link--lang{
+.menu__link--lang {
 	display: flex;
 	align-items: center;
 	gap: 4px;
 }
 
-.menu__link--lang{
+.menu__link--lang {
 	color: var(--primary-active-color);
 }
-
 
 .menu__contacts-list {
 	display: flex;
@@ -158,7 +157,6 @@
 	@media screen and (min-width: 1200px) {
 		gap: 1.5rem;
 	}
-
 }
 
 .menu__contacts-item {
@@ -166,12 +164,17 @@
 	height: 1.5rem;
 }
 
-.menu__contacts-link{
+.menu__contacts-link {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	width: 100%;
 	height: 100%;
+
+	&:hover,
+	&:focus {
+		color: var(--primary-active-color);
+	}
 }
 
 .contacts__link {
