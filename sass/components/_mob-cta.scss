@@ -1,0 +1,21 @@
+.mob-cta{    
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: var(--primary-text-color);
+
+    @media screen and (min-width: 1200px) {
+        display: none;
+    }
+}
+
+.mob-cta__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 42px;
+}
+
+.mob-cta__item{
+    width: 2.5rem;
+    height: 2.5rem;
+}
