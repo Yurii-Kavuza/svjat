@@ -370,24 +370,20 @@ img {
   }
 }
 
-@media screen and (min-width: 1200px) {
-  .dark-blue-third {
-    background: var(--dark-blue-color);
-    filter: blur(175px);
-    top: 60%;
-    left: -65px;
-    -webkit-filter: blur(175px);
-  }
+.dark-blue-third {
+  background: var(--dark-blue-color);
+  filter: blur(175px);
+  top: 60%;
+  left: -65px;
+  -webkit-filter: blur(175px);
 }
 
-@media screen and (min-width: 1200px) {
-  .dark-blue-fourth {
-    background: var(--dark-blue-color);
-    filter: blur(175px);
-    bottom: 579px;
-    right: -30px;
-    -webkit-filter: blur(175px);
-  }
+.dark-blue-fourth {
+  background: var(--dark-blue-color);
+  filter: blur(175px);
+  bottom: 579px;
+  right: -30px;
+  -webkit-filter: blur(175px);
 }
 
 .ellipse {

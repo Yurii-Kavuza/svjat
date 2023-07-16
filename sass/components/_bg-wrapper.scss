@@ -48,23 +48,19 @@
 }
 
 .dark-blue-third {
-	@media screen and (min-width: 1200px) {
-		background: var(--dark-blue-color);
-		filter: blur(175px);
-		top: 60%;
-		left: -65px;
-		-webkit-filter: blur(175px);
-	}
+	background: var(--dark-blue-color);
+	filter: blur(175px);
+	top: 60%;
+	left: -65px;
+	-webkit-filter: blur(175px);
 }
 
 .dark-blue-fourth {
-	@media screen and (min-width: 1200px) {
-		background: var(--dark-blue-color);
-		filter: blur(175px);
-		bottom: 579px;
-		right: -30px;
-		-webkit-filter: blur(175px);
-	}
+	background: var(--dark-blue-color);
+	filter: blur(175px);
+	bottom: 579px;
+	right: -30px;
+	-webkit-filter: blur(175px);
 }
 
 .ellipse {
