@@ -317,6 +317,99 @@ img {
   }
 }
 
+.bg-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-wrapper__item {
+  position: absolute;
+}
+
+.round {
+  width: 294px;
+  height: 294px;
+  border-radius: 294px;
+}
+
+.red-first {
+  top: 28px;
+  left: -254px;
+  background: var(--primary-active-color);
+  -webkit-filter: blur(200px);
+          filter: blur(200px);
+}
+@media screen and (min-width: 1200px) {
+  .red-first {
+    top: 387px;
+    left: -205px;
+  }
+}
+
+.dark-blue-first {
+  top: 608px;
+  right: -179px;
+  background: var(--dark-blue-color);
+  -webkit-filter: blur(175px);
+          filter: blur(175px);
+}
+@media screen and (min-width: 1200px) {
+  .dark-blue-first {
+    top: 25px;
+    right: -132px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .dark-blue-second {
+    background: var(--dark-blue-color);
+    filter: blur(200px);
+    top: 618px;
+    right: -132px;
+    -webkit-filter: blur(200px);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .dark-blue-third {
+    background: var(--dark-blue-color);
+    filter: blur(175px);
+    top: 60%;
+    left: -65px;
+    -webkit-filter: blur(175px);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .dark-blue-fourth {
+    background: var(--dark-blue-color);
+    filter: blur(175px);
+    bottom: 579px;
+    right: -30px;
+    -webkit-filter: blur(175px);
+  }
+}
+
+.ellipse {
+  width: 1440px;
+  height: 302px;
+  border-radius: 1440px;
+}
+
+.red-second {
+  background: var(--primary-active-color);
+  filter: blur(100px);
+  -webkit-filter: blur(100px);
+  bottom: -320px;
+  left: 50%;
+  translate: -50% 0;
+}
+@media screen and (min-width: 1200px) {
+  .red-second {
+    bottom: -290px;
+  }
+}
+
 .logo {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1047,7 +1140,7 @@ img {
 .footer {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: var(--primary-background-color);
+  background-color: var(--footer-bg-color);
 }
 
 @media screen and (min-width: 768px) {
@@ -1951,10 +2044,7 @@ img {
   height: 2.5rem;
 }
 
-.phone {
-  fill: none;
-}
-
+.phone,
 .mail,
 .chevron {
   fill: none;

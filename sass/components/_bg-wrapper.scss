@@ -1,0 +1,87 @@
+.bg-wrapper {
+	position: relative;
+	overflow: hidden;
+}
+
+.bg-wrapper__item {
+	position: absolute;
+}
+
+.round {
+	width: 294px;
+	height: 294px;
+	border-radius: 294px;
+}
+
+.red-first {
+	top: 28px;
+	left: -254px;
+	background: var(--primary-active-color);
+	filter: blur(200px);
+
+	@media screen and (min-width: 1200px) {
+		top: 387px;
+		left: -205px;
+	}
+}
+
+.dark-blue-first {
+	top: 608px;
+	right: -179px;
+	background: var(--dark-blue-color);
+	filter: blur(175px);
+
+	@media screen and (min-width: 1200px) {
+		top: 25px;
+		right: -132px;
+	}
+}
+
+.dark-blue-second {
+	@media screen and (min-width: 1200px) {
+		background: var(--dark-blue-color);
+		filter: blur(200px);
+		top: 618px;
+		right: -132px;
+		-webkit-filter: blur(200px);
+	}
+}
+
+.dark-blue-third {
+	@media screen and (min-width: 1200px) {
+		background: var(--dark-blue-color);
+		filter: blur(175px);
+		top: 60%;
+		left: -65px;
+		-webkit-filter: blur(175px);
+	}
+}
+
+.dark-blue-fourth {
+	@media screen and (min-width: 1200px) {
+		background: var(--dark-blue-color);
+		filter: blur(175px);
+		bottom: 579px;
+		right: -30px;
+		-webkit-filter: blur(175px);
+	}
+}
+
+.ellipse {
+	width: 1440px;
+	height: 302px;
+	border-radius: 1440px;
+}
+
+.red-second {
+	background: var(--primary-active-color);
+	filter: blur(100px);
+	-webkit-filter: blur(100px);
+	bottom: -320px;
+	left: 50%;
+	translate: -50% 0;
+
+	@media screen and(min-width: 1200px) {
+		bottom: -290px;
+	}
+}
