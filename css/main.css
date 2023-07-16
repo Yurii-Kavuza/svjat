@@ -142,8 +142,7 @@ img {
 }
 
 .mob-cta {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
   color: var(--primary-text-color);
 }
 @media screen and (min-width: 768px) {
@@ -190,6 +189,7 @@ img {
 }
 
 .what-we-do__list {
+  padding-bottom: 3rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -207,7 +207,6 @@ img {
             flex-direction: row;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-    padding-bottom: 5.625rem;
     gap: 30px;
   }
 }
@@ -304,12 +303,6 @@ img {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-bottom: 42px;
-}
-@media screen and (min-width: 1200px) {
-  .description__cta {
-    margin-bottom: 52px;
-  }
 }
 
 .our-customers {
@@ -617,8 +610,8 @@ img {
       -ms-flex-align: start;
           align-items: flex-start;
   color: var(--primary-text-color);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.7)), to(rgba(47, 48, 58, 0.7))), url(../images/Slider1.jpg);
-  background-image: linear-gradient(rgba(47, 48, 58, 0.7), rgba(47, 48, 58, 0.7)), url(../images/Slider1.jpg);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.7019607843)), to(rgba(47, 48, 58, 0.7))), url(../images/Slider1.jpg);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.7019607843), rgba(47, 48, 58, 0.7)), url(../images/Slider1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1605,8 +1598,8 @@ img {
           align-items: center;
   -ms-flex-item-align: center;
       align-self: center;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
   background-color: transparent;
   border-color: transparent;
 }
@@ -1618,8 +1611,8 @@ img {
 
 .menu__icon-open,
 .menu__icon-close {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   fill: var(--secondary-logo-color);
   transition: fill var(--first-transition-duration) var(--first-transition-function);
   -webkit-transition: fill var(--first-transition-duration) var(--first-transition-function);

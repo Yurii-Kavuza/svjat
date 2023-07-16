@@ -9,14 +9,16 @@
 	}
 }
 .what-we-do__list {
+	padding-bottom: 3rem;
 	display: flex;
 flex-direction: column;
+
 gap: 32px;
+
 
 	@media screen and (min-width: 768px) {
 		flex-direction: row;
 		flex-wrap: wrap;
-		padding-bottom: 5.625rem;
 		gap: 30px;
 	}
 }
