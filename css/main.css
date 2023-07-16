@@ -1598,8 +1598,8 @@ img {
           align-items: center;
   -ms-flex-item-align: center;
       align-self: center;
-  width: 60px;
-  height: 60px;
+  width: 3.75rem;
+  height: 3.75rem;
   background-color: transparent;
   border-color: transparent;
 }
@@ -1611,8 +1611,8 @@ img {
 
 .menu__icon-open,
 .menu__icon-close {
-  width: 60px;
-  height: 60px;
+  width: 3.75rem;
+  height: 3.75rem;
   fill: var(--secondary-logo-color);
   transition: fill var(--first-transition-duration) var(--first-transition-function);
   -webkit-transition: fill var(--first-transition-duration) var(--first-transition-function);
