@@ -144,6 +144,8 @@ img {
 .mob-cta {
   padding-top: 1rem;
   color: var(--primary-text-color);
+  position: relative;
+  z-index: 2;
 }
 @media screen and (min-width: 768px) {
   .mob-cta {

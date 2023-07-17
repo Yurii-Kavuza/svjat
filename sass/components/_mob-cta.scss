@@ -1,24 +1,26 @@
-.mob-cta{    
-    padding-top: 1rem;
-    color: var(--primary-text-color);
+.mob-cta {
+	padding-top: 1rem;
+	color: var(--primary-text-color);
+	position: relative;
+	z-index: 2;
 
-    @media screen and (min-width: 768px) {
-        display: none;
-    }
+	@media screen and (min-width: 768px) {
+		display: none;
+	}
 }
 
 .mob-cta__list {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 42px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 42px;
 
-    @media screen and (min-width: 480px) {
-            justify-content: space-evenly;
-        }
+	@media screen and (min-width: 480px) {
+		justify-content: space-evenly;
+	}
 }
 
-.mob-cta__item{
-    width: 2.5rem;
-    height: 2.5rem;
+.mob-cta__item {
+	width: 2.5rem;
+	height: 2.5rem;
 }
