@@ -629,13 +629,13 @@ img {
 }
 @media screen and (min-width: 1200px) {
   .menu__contacts-list {
-    gap: 1.5rem;
+    gap: 1rem;
   }
 }
 
 .menu__contacts-item {
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 1.75rem;
+  height: 1.75rem;
 }
 
 .menu__contacts-link {
@@ -2072,8 +2072,8 @@ img {
 }
 
 .icon--header {
-  width: 2rem;
-  height: 2rem;
+  width: 1.75rem;
+  height: 1.75rem;
 }
 
 .icon--footer {
