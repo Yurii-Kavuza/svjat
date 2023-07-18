@@ -310,6 +310,7 @@ img {
 .our-customers {
   padding-top: 5rem;
   padding-bottom: 5rem;
+  color: var(--primary-text-color);
 }
 @media screen and (min-width: 1200px) {
   .our-customers {
