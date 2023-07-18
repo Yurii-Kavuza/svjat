@@ -310,6 +310,7 @@ img {
 .our-customers {
   padding-top: 5rem;
   padding-bottom: 5rem;
+  color: var(--primary-text-color);
 }
 @media screen and (min-width: 1200px) {
   .our-customers {
@@ -1136,6 +1137,7 @@ img {
 }
 
 .footer {
+  width: 100%;
   padding-top: 2rem;
   padding-bottom: 2rem;
   color: var(--primary-text-color);
@@ -2079,6 +2081,21 @@ img {
 .icon--footer {
   width: 1.5rem;
   height: 1.5rem;
+}
+
+.icon-customers {
+  width: auto;
+  height: 32px;
+}
+@media screen and (min-width: 768px) {
+  .icon-customers {
+    height: 48px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .icon-customers {
+    height: 85px;
+  }
 }
 
 .icon--profit,
