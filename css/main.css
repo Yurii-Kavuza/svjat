@@ -2071,6 +2071,11 @@ img {
   fill: currentColor;
 }
 
+.icon--header {
+  width: 2rem;
+  height: 2rem;
+}
+
 .icon--footer {
   width: 1.5rem;
   height: 1.5rem;
