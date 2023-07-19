@@ -17,17 +17,19 @@
 	height: 1.5rem;
 }
 
-.icon-customers {
-	width: auto;
+.icon--customers {
 	height: 32px;
+	width: 100px;
 
 	@media screen and (min-width: 768px) {
 		height: 48px;
+		width: 150px;
 	}
+}
 
-	@media screen and (min-width: 1200px) {
-		height: 85px;
-	}
+.icon--swiper {
+	height: 37px;
+	width: 37px;
 }
 
 .icon--profit,

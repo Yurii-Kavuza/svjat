@@ -2,9 +2,41 @@
 	padding-top: 5rem;
 	padding-bottom: 5rem;
 	color: var(--primary-text-color);
-	@media screen and (min-width: 1200px) {
-		display: block;
+
+	@media screen and (min-width: 768px) {
 		padding-top: 5.625rem;
-		padding-bottom: 15rem;
+		padding-bottom: 7rem;
+	}
+
+	@media screen and (min-width: 1200px) {
+		padding-bottom: 10rem;
+	}
+}
+
+.our-customers__wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	@media screen and (min-width: 768px) {
+		flex-wrap: nowrap;
+		justify-content: space-evenly;
+		gap: 1.5rem;
+	}
+}
+
+.customer-slider {
+	flex-basis: 100%;
+	margin-bottom: 42px;
+
+	@media screen and (min-width: 768px) {
+		flex-basis: unset;
+		margin-bottom: 0;
+	}
+}
+
+.swiper-button-prev--customer {
+	@media screen and (min-width: 768px) {
+		order: -1;
 	}
 }

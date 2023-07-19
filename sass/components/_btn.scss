@@ -1,5 +1,5 @@
 .btn {
-	width: 343px;
+	width: 90%;
 	height: 42px;
 	padding: 10px;
 	display: flex;
@@ -28,6 +28,10 @@
 	-ms-transition: background-color var(--first-transition-duration) var(--first-transition-function);
 	-o-transition: background-color var(--first-transition-duration) var(--first-transition-function);
 
+	@media screen and (min-width: 375px) {
+		width: 343px;
+	}
+
 	@media screen and (min-width: 1200px) {
 		width: 310px;
 		height: 50px;
@@ -44,6 +48,20 @@
 	margin-bottom: 1.5rem;
 
 	@media screen and (min-width: 1200px) {
-			margin-bottom: 2rem;
-		}
+		margin-bottom: 2rem;
+	}
+}
+
+.btn--swiper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: none;
+	cursor: pointer;
+	background-color: transparent;
+
+	&:hover,
+	&:focus {
+		color: var(--primary-active-color);
+	}
 }

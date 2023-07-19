@@ -1,12 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
     <defs>
-        <symbol id="arrowLeft" viewBox="0 0 32 32">
-            <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.73"
-                d="M26.666 16H5.333m.001 0 8-8m-8 8 8 8" style="stroke:var(--color1, #fff)" />
+        <symbol id="arrowLeft" viewBox="0 0 31 32">
+            <path fill="none" stroke="currentColor" style="stroke: var(--color1, currentColor)" stroke-linejoin="round"
+                stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6842"
+                d="M25.965 16h-20.772M5.193 16l7.789-7.789M5.193 16l7.789 7.789"></path>
         </symbol>
-        <symbol id="arrowRight" viewBox="0 0 41 32">
-            <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.048"
-                d="M1.778 16h37.586m.001 0L25.27 30.095M39.365 16 25.27 1.905" style="stroke:var(--color1, #fff)" />
+        <symbol id="arrowRight" viewBox="0 0 31 32">
+            <path fill="none" stroke="currentColor" style="stroke: var(--color1, currentColor)" stroke-linejoin="round"
+                stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6842"
+                d="M5.193 16h20.772M25.965 16l-7.789 7.789M25.965 16l-7.789-7.789"></path>
         </symbol>
         <symbol id="chevronDown" viewBox="0 0 31 32">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.56"
