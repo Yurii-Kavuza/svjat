@@ -17,6 +17,19 @@
 	height: 1.5rem;
 }
 
+.icon-customers {
+	width: auto;
+	height: 32px;
+
+	@media screen and (min-width: 768px) {
+		height: 48px;
+	}
+
+	@media screen and (min-width: 1200px) {
+		height: 85px;
+	}
+}
+
 .icon--profit,
 .icon--mob-cta {
 	width: 2.5rem;

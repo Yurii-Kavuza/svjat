@@ -1,0 +1,19 @@
+.swiper {
+	display: flex;
+	width: 100%;
+	height: auto;
+	margin: 0;
+}
+
+.swiper-wrapper {
+	box-sizing: content-box;
+}
+
+.swiper-slide {
+	display: flex;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+	color: var(--primary-text-color);
+}

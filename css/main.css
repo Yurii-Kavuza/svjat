@@ -88,6 +88,31 @@ img {
   pointer-events: none;
 }
 
+.swiper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.swiper-wrapper {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+.swiper-slide {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: var(--primary-text-color);
+}
+
 .wrapper {
   min-height: 100vh;
   display: grid;
@@ -2080,6 +2105,21 @@ img {
 .icon--footer {
   width: 1.5rem;
   height: 1.5rem;
+}
+
+.icon-customers {
+  width: auto;
+  height: 32px;
+}
+@media screen and (min-width: 768px) {
+  .icon-customers {
+    height: 48px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .icon-customers {
+    height: 85px;
+  }
 }
 
 .icon--profit,
