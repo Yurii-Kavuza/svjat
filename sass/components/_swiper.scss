@@ -9,8 +9,10 @@
 // .customer-slider__wrapper {
 // }
 
-// .customer-slider__slide {
-// }
+.customer-slider__slide {
+	display: flex;
+	justify-content: center;
+}
 
 .swiper-button-prev--customer,
 .swiper-button-next--customer {

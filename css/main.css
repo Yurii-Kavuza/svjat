@@ -92,6 +92,15 @@ img {
   pointer-events: none;
 }
 
+.customer-slider__slide {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 .swiper-button-prev--customer,
 .swiper-button-next--customer {
   color: var(--primary-text-color);
@@ -2202,7 +2211,7 @@ img {
 }
 
 .icon--customers {
-  height: 32px;
+  height: 40px;
   width: 100px;
 }
 @media screen and (min-width: 768px) {
