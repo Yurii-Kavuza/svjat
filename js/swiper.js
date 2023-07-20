@@ -22,16 +22,17 @@ const swiper = new Swiper('.customer-slider', {
         
     breakpoints: {
         312: {
-            slidesPerView: 3,
+            slidesPerView: 2,
+            spaceBetween: 10,
         },
         480: {
             slidesPerView: 3,
         },
         1200: {
-            slidesPerView: 5,
+            slidesPerView: 4,
         },
-        1400: {
-            slidesPerView: 6,
+        1440: {
+            slidesPerView: 5,
         }
     }
 });

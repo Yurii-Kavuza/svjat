@@ -2211,14 +2211,8 @@ img {
 }
 
 .icon--customers {
-  height: 40px;
-  width: 100px;
-}
-@media screen and (min-width: 768px) {
-  .icon--customers {
-    height: 48px;
-    width: 150px;
-  }
+  height: 48px;
+  width: auto;
 }
 
 .icon--swiper {
