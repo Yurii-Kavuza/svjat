@@ -5,13 +5,6 @@ customerPrevBtn: document.querySelector('.swiper-button-prev--customer'),
 
 const swiper = new Swiper('.customer-slider', {
     loop: true,
-    // navigation: {
-    // nextEl: '.swiper-button-next',
-    // prevEl: '.swiper-button-prev',
-    // },
-    // pagination: {
-    // el: '.swiper-pagination',
-    // },
     autoplay: {
         delay: 0,
         disableOnInteraction: false,        
@@ -36,8 +29,6 @@ const swiper = new Swiper('.customer-slider', {
         }
     }
 });
-
-console.log(refs.customerNextBtn);
 
 refs.customerNextBtn.addEventListener('click', (e)=>swiper.slideNext());
 refs.customerPrevBtn.addEventListener('click', (e)=>swiper.slidePrev());
