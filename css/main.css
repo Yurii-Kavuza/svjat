@@ -1883,7 +1883,7 @@ img {
   -ms-transition: opacity var(--first-transition-duration) var(--first-transition-function), visibility var(--first-transition-duration) var(--first-transition-function);
   -o-transition: opacity var(--first-transition-duration) var(--first-transition-function), visibility var(--first-transition-duration) var(--first-transition-function);
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1200px) {
   .mob-menu {
     display: none;
   }
