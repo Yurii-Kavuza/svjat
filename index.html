@@ -98,49 +98,90 @@
 				</div>
 				<div class="mob-menu is-hidden">
 					<div class="container--mobile">
-						<button type="button" class="menu__close">
-							<svg class="menu__icon-close">
-								<use href="./images/icons.svg#menu-close"></use>
-							</svg>
-						</button>
+						<div class="mob-menu__header">
+							<a href="./" class="logo main-nav__logo">
+								<img src="./images/logoOriginal.png" alt="логотип" />
+							</a>
+							<button type="button" class="menu__close">
+								<svg class="menu__icon-close">
+									<use href="./images/icons.svg#iconClose"></use>
+								</svg>
+							</button>
+						</div>
+
 						<ul class="mob-menu__nav mob-nav list">
 							<li class="mob-nav__item item">
-								<a href="" class="mob-nav__link mob-nav__link--current link">Продукція</a>
+								<p>Зовнішня реклама</p>
+								<ul class="mob-nav__sub-list list">
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Лайтбокси</a></li>
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Дахові конструкції</a></li>
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Об’ємні літери</a></li>
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Банерні конструкції</a></li>
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Вхідні групи</a></li>
+								</ul>
 							</li>
 							<li class="mob-nav__item item">
-								<a href="" class="mob-nav__link link">Наші роботи</a>
-							</li>
-							<li class="mob-nav__item item">
-								<a href="" class="mob-nav__link link">Відео</a>
-							</li>
-							<li class="mob-nav__item item">
-								<a href="" class="mob-nav__link link">Статті</a>
+								<p>Інтер’єна реклама</p>
+								<ul class="mob-nav__sub-list list">
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Неонові вивіски</a></li>
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Об’ємні логотипи</a></li>
+									<li class="mob-nav__sub-item item">
+										<a href="" class="mob-nav__link link">Фігури та елементи з пластику</a>
+									</li>
+									<li class="mob-nav__sub-item item">
+										<a href="" class="mob-nav__link link">Оформлення зони ресепшн</a>
+									</li>
+									<li class="mob-nav__sub-item item"><a href="" class="mob-nav__link link">Інтер’єні вивіски</a></li>
+								</ul>
 							</li>
 							<li class="mob-nav__item item">
 								<a href="" class="mob-nav__link link">Про нас</a>
 							</li>
-							<li class="mob-nav__item item"><a href="" class="mob-nav__link link">Контакти</a></li>
-						</ul>
-						<ul class="mob-contacts list">
-							<li class="mob-contacts__item mob-contacts__item--phone item">
-								<a href="tel:+380951659999" class="mob-contacts__link link">+38 (095) 165-99-99</a>
+							<li class="mob-nav__item item">
+								<a href="" class="mob-nav__link link">Контакти</a>
 							</li>
-							<li class="mob-contacts__item item">
-								<a href="mailto:seitpromotion@ukr.net" class="mob-contacts__link link">seitpromotion@ukr.net</a>
+							<!-- menu__item--contacts -->
+							<li class="mob-nav__item mob-nav__item--contacts item">
+								<ul class="menu__contacts-list menu__contacts-list--mob list">
+									<li class="menu__contacts-item">
+										<a class="menu__contacts-link link" href="tel:+380961111111" aria-label="Phone">
+											<svg class="icon phone icon--header"><use href="./images/icons.svg#phone"></use></svg>
+										</a>
+									</li>
+									<li class="menu__contacts-item">
+										<a class="menu__contacts-link link" href="mailto:seitpromotion@ukr.net" aria-label="Email">
+											<svg class="icon mail icon--header"><use href="./images/icons.svg#mail"></use></svg>
+										</a>
+									</li>
+									<li class="menu__contacts-item">
+										<a
+											class="menu__contacts-link link"
+											href="https://instagram.com/seitpromotion?igshid=YmMyMTA2M2Y="
+											target="_blank"
+											rel="noreferrer noopener"
+											aria-label="Instagram"
+										>
+											<svg class="icon icon--header"><use href="./images/icons.svg#instagram"></use></svg>
+										</a>
+									</li>
+									<li class="menu__contacts-item">
+										<a
+											class="menu__contacts-link link"
+											href="https://www.facebook.com/SeitPromotion"
+											target="_blank"
+											rel="noreferrer noopener"
+											aria-label="Facebook"
+										>
+											<svg class="icon icon--header"><use href="./images/icons.svg#facebook"></use></svg>
+										</a>
+									</li>
+								</ul>
 							</li>
-						</ul>
-						<ul class="mob-social-list list">
-							<li class="mob-social-item">
-								<a class="mob-social-link link" href="" aria-label="Instagram">Instagram</a>
-							</li>
-							<li class="mob-social-item">
-								<a class="mob-social-link link" href="" aria-label="Twitter">Twitter</a>
-							</li>
-							<li class="mob-social-item">
-								<a class="mob-social-link link" href="" aria-label="Facebook">Facebook</a>
-							</li>
-							<li class="mob-social-item">
-								<a class="mob-social-link link" href="" aria-label="LinkedIn">LinkedIn</a>
+							<li class="mob-nav__item item">
+								<a href="" class="menu__link menu__link--lang menu__link--mob link">
+									<svg class="icon globe"><use href="./images/icons.svg#globe"></use></svg>
+									<span lang="en">UA</span>
+								</a>
 							</li>
 						</ul>
 					</div>
@@ -601,7 +642,7 @@ https://cdn.jsdelivr.net/npm/swiper@10.0.4/swiper-bundle.min.js
 "></script>
 		<!-- <script src="./js/swiper-bundle.min.js"></script> -->
 		<script defer src="./js/swiper.js"></script>
-		<!-- <script src="./js/modal.js"></script>
-		<script src="./js/mobile-menu.js"></script> -->
+		<!-- <script src="./js/modal.js"></script> -->
+		<script src="./js/mobile-menu.js"></script>
 	</body>
 </html>

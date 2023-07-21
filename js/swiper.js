@@ -14,7 +14,7 @@ const swiper = new Swiper('.customer-slider', {
     // },
     autoplay: {
         delay: 0,
-        disableOnInteraction: false,
+        disableOnInteraction: false,        
     },
 
     speed: 2000,
