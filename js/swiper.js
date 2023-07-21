@@ -9,9 +9,9 @@ const swiper = new Swiper('.customer-slider', {
     // nextEl: '.swiper-button-next',
     // prevEl: '.swiper-button-prev',
     // },
-    pagination: {
-    el: '.swiper-pagination',
-    },
+    // pagination: {
+    // el: '.swiper-pagination',
+    // },
     autoplay: {
         delay: 0,
         disableOnInteraction: false,
@@ -22,7 +22,7 @@ const swiper = new Swiper('.customer-slider', {
         
     breakpoints: {
         312: {
-            slidesPerView: 2,
+            slidesPerView: 3,
             spaceBetween: 10,
         },
         480: {
