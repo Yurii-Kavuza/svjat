@@ -11,10 +11,9 @@
 .what-we-do__list {
 	padding-bottom: 3rem;
 	display: flex;
-flex-direction: column;
+	flex-direction: column;
 
-gap: 32px;
-
+	gap: 32px;
 
 	@media screen and (min-width: 768px) {
 		flex-direction: row;
@@ -57,6 +56,13 @@ gap: 32px;
 	}
 }
 
+.what-we-do__thumb--product {
+	@media screen and (min-width: 1200px) {
+		height: 375px;
+		width: 515px;
+	}
+}
+
 .what-we-do__label {
 	bottom: 0;
 	display: flex;
@@ -73,8 +79,8 @@ gap: 32px;
 	color: var(--primary-title-color);
 
 	@media screen and (min-width: 1200px) {
-			font-size: 1.5rem;
-		}
+		font-size: 1.5rem;
+	}
 }
 
 .what-we-do__cta {

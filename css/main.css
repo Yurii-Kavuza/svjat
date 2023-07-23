@@ -353,6 +353,13 @@ img {
      object-fit: cover;
 }
 
+@media screen and (min-width: 1200px) {
+  .what-we-do__thumb--product {
+    height: 375px;
+    width: 515px;
+  }
+}
+
 .what-we-do__label {
   bottom: 0;
   display: -webkit-box;
@@ -385,6 +392,12 @@ img {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+.description {
+  position: relative;
+  z-index: 5;
+  color: var(--primary-text-color);
 }
 
 .description__cta {
@@ -731,6 +744,15 @@ img {
   }
 }
 
+.about-us_profits-list--stages {
+  margin-bottom: 2rem;
+}
+@media screen and (min-width: 1200px) {
+  .about-us_profits-list--stages {
+    margin-bottom: 0;
+  }
+}
+
 .about-us__profits-title {
   padding-top: 1.2rem;
   padding-bottom: 0.75rem;
@@ -747,6 +769,51 @@ img {
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.012em;
+}
+
+.manufacture-stages {
+  padding-top: 3rem;
+}
+
+.gallery {
+  padding-top: 8rem;
+  padding-bottom: 5rem;
+  position: relative;
+  z-index: 5;
+  color: var(--primary-text-color);
+}
+@media screen and (min-width: 1200px) {
+  .gallery {
+    padding-top: 10rem;
+  }
+}
+
+.gallery__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  row-gap: 2rem;
+}
+@media screen and (min-width: 768px) {
+  .gallery__list {
+    row-gap: 3rem;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+}
+@media screen and (min-width: 768px) {
+  .gallery__list {
+    row-gap: 3rem;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
 }
 
 .bg-wrapper {
@@ -931,6 +998,8 @@ img {
 }
 
 .main-nav {
+  position: relative;
+  z-index: 999;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1157,6 +1226,25 @@ img {
   height: 16px;
   margin-right: 10px;
   fill: currentColor;
+}
+
+.main-nav__submenu {
+  position: absolute;
+  top: 100%;
+  display: none;
+  background: var(--header-bg-color);
+}
+
+.sub-menu__item {
+  display: block;
+}
+
+.menu__item:hover .main-nav__submenu {
+  display: block;
+}
+
+.sub-menu__link {
+  padding: 10px 15px;
 }
 
 .hero {

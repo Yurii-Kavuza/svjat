@@ -1,3 +1,9 @@
+.description {
+	position: relative;
+	z-index: 5;
+	color: var(--primary-text-color);
+}
+
 .description__cta {
 	position: relative;
 	z-index: 5;
